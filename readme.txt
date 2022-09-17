@@ -66,7 +66,6 @@ All images are under Creative Commons Public Domain deed CC0.
 1.1.5
 * website link updated
 
-
 1.1.4
 * Keyboard Navigation for page menu.
 
